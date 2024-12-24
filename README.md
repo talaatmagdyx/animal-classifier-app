@@ -15,14 +15,7 @@ This is a **Streamlit web application** that allows users to upload an image of 
 
 ## Demo 🎥
 
-
-
-<video width="640" height="360" controls>
-  <source src="demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-> [Click here to try the app!]()
+> [Click here to try the app!](https://animal-classifier-app-talaatx.streamlit.app/)
 
 ---
 
